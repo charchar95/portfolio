@@ -76,9 +76,10 @@ h6 {
 }
 
 #about {
-  background-color: #2E2D2D;
+  background-color: #AD7D81;
   color: white;
 }
+
 
 .scroll-to-top {
   position: fixed;
@@ -345,7 +346,7 @@ h6 {
   clip-path: inset(2rem);
 }
 .portfolio-item:hover .caption {
-  background-color: #445734;
+  background-color: #8780A8;
   -webkit-clip-path: inset(2rem);
   clip-path: inset(2rem);
 }
@@ -378,7 +379,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: #445734;
+    background-color: #8ED9F0;
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -396,7 +397,7 @@ footer.footer .social-link {
   line-height: 4rem;
   font-size: 1.9rem;
   padding-left: .1em;
-  background-color: goldenrod;
+  background-color: #464D5F;
   -webkit-transition: background-color 0.15s ease-in-out;
   transition: background-color 0.15s ease-in-out;
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
@@ -404,17 +405,17 @@ footer.footer .social-link {
 }
 
 footer.footer .social-link:hover {
-  background-color: goldenrod;
+  background-color: #464D5F;
   text-decoration: none;
   opacity: .8;
 }
 
 a {
-  color: goldenrod;
+  color: #464D5F;
 }
 
 a:hover, a:focus, a:active {
-  color: goldenrod;
+  color: #464D5F;
 }
 
 .btn-primary {
@@ -429,8 +430,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-secondary {
-  background-color: #ecb807 !important;
-  border-color: #ecb807 !important;
+  background-color: #464D5F !important;
+  border-color: #464D5F !important;
   color: #fff !important;
 }
 
@@ -450,7 +451,7 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #2E2D2D !important;
+  background-color: #AD7D81 !important;
 }
 
 .text-primary {
@@ -460,3 +461,7 @@ a:hover, a:focus, a:active {
 .text-secondary {
   color: #ecb807 !important;
 }
+ #contact{
+   text-align: center;
+   padding-top: 20px;
+ }
