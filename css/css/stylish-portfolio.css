@@ -23,12 +23,12 @@ body {
 }
 
 a.down-scroll {
-  color: goldenrod;
+  color: #464D5F;
   font-size: 4em;
 }
 
 a.down-scroll:hover {
-  color: goldenrod;
+  color: #464D5F;
   opacity: .8;
 }
 
@@ -262,7 +262,7 @@ h6 {
   position: relative;
   overflow: hidden;
   max-width: 530px;
-  /* margin: auto auto 1rem; */
+  margin: auto auto 1rem;
 }
 
 .portfolio-item .caption {
@@ -379,7 +379,7 @@ h6 {
     clip-path: inset(2rem);
   }
   .portfolio-item:hover .caption {
-    background-color: #8ED9F0;
+    background-color: #8780A8;
     -webkit-clip-path: inset(2rem);
     clip-path: inset(2rem);
   }
@@ -436,8 +436,8 @@ a:hover, a:focus, a:active {
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #ba9106 !important;
-  border-color: #ba9106 !important;
+  background-color: #464D5F !important;
+  border-color: #464D5F !important;
 }
 
 .btn-dark {
@@ -459,7 +459,7 @@ a:hover, a:focus, a:active {
 }
 
 .text-secondary {
-  color: #ecb807 !important;
+  color: #464D5F !important;
 }
  #contact{
    text-align: center;
