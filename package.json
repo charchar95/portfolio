@@ -18,6 +18,7 @@
   "homepage": "https://github.com/charchar95/portfolio#readme",
   "dependencies": {
     "bootstrap": "^4.5.0",
+    "express-favicon": "^2.0.1",
     "jquery": "^3.5.1"
   }
 }
